@@ -31,17 +31,17 @@ Realizar uma análise exploratória dos dados de veículos subtraídos no estado
 
 5. Conclusões
 
-<h2>📚 Como Executar</h2>
+<h2>📚 4. Como Executar</h2>
   1. Abra o notebook analise_veiculos_2024.ipynb no Google Colab<br>
   2. Carregue o dataset VeiculosSubtraidos_2024.csv<br>
   3. Execute as células para visualizar os insights<br>
 
-<h2>🚀 Resultados e Aprendizados</h2>
+<h2>🚀 5. Resultados e Aprendizados</h2>
   - Uso de PySpark para processamento eficiente de dados reais<br>
   - Extração de insights relevantes com foco em segurança pública<br>
   - Exploração visual com bibliotecas de gráficos<br>
 
-  <h2>🌐 Autor</h2>
+<h2>🌐6. Autor</h2>
    Pedro Toshio Baldini <br>
    LinkedIn: https://www.linkedin.com/in/pedrobaldini/ 
   
