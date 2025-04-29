@@ -7,7 +7,7 @@ Realizar uma análise exploratória dos dados de veículos subtraídos no estado
    - Google Colab como ambiente de desenvolvimento <br>
    - PySpark para processamento de dados em larga escala <br>
    - Pandas + Seaborn/Matplotlib para visualizações <br>
-   - CSV (dados reais) fornecido pela Secretaria de Segurança Pública do estado de São Paulo <br>
+   - CSV público (dados reais) fornecido pela Secretaria de Segurança Pública do estado de São Paulo <br>
 
 <h2> 📊 3. Etapas do Projeto </h2>
 
