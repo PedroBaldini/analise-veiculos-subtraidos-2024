@@ -18,18 +18,17 @@ Realizar uma análise exploratória dos dados de veículos subtraídos no estado
   - Filtragem para colunas como: data, hora, marca, modelo, tipo de veículo, cidade.<br>
 
 3. Análise Exploratória (EDA)
-  - Tipos de veículos mais subtraídos<br>
-  - Marcas com maior número de ocorrências<br>
-  - Cidades e estados com maior incidência<br>
-  - Distribuição por horário e ano do modelo<br>
+ - Quais são as marcas mais visadas?
+ - Em que cidades ocorrem mais subtrações?
+ - Existe horário ou dia com mais ocorrências?
+ - Carros de qual cor são mais furtados?
+ - Qual o tipo de veículo mais visado?
 
 4. Visualizações com Seaborn
   - Gráfico de barras com top 20 modelos de carros mais subtraídos<br>
   - Gráfico de barras com top 20 cidades com mais ocorrências<br>
   - Gráfico de barras com as cores de carro mais subtraídos<br>
   - Gráfico com os horários de maior incidência de ocorrências<br>
-
-5. Conclusões
 
 <h2>📚 4. Como Executar</h2>
   1. Abra o notebook analise_veiculos_2024.ipynb no Google Colab<br>
