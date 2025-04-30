@@ -8,6 +8,7 @@ Realizar uma análise exploratória dos dados de veículos subtraídos no estado
    - PySpark para processamento de dados em larga escala <br>
    - Pandas + Seaborn/Matplotlib para visualizações <br>
    - CSV público (dados reais) fornecido pela Secretaria de Segurança Pública do estado de São Paulo <br>
+   - Power BI para criação de dashboard interativo <br>
 
 <h2> 📊 3. Etapas do Projeto </h2>
 
