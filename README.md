@@ -33,7 +33,7 @@ Realizar uma análise exploratória dos dados de veículos subtraídos no estado
 
 <h2>📚 4. Como Executar</h2>
   1. Abra o notebook analise_veiculos_2024.ipynb no Google Colab<br>
-  2. Carregue o dataset VeiculosSubtraidos_2024.csv<br>
+  2. Descompacte o arquivo .zip e carregue o dataset VeiculosSubtraidos_2024.csv<br>
   3. Execute as células para visualizar os insights<br>
 
 <h2>🚀 5. Resultados e Aprendizados</h2>
